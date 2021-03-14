@@ -1,0 +1,24 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags FemaleAlt2
+camera 359.0 56.0 1.0 0.998948407483 -1.0 2.625
+modifier macrodetails-universal/Muscle 0.500000
+modifier macrodetails/African 0.333333
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails-height/Height 0.500000
+modifier breast/BreastSize 1.000000
+modifier macrodetails/Age 0.241000
+modifier breast/BreastFirmness 1.000000
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier macrodetails-universal/Weight 0.500000
+hair long01 6c6b0bb1-3608-40b8-9108-4bfd8fa71e39
+eyebrows eyebrow003 4089e4e3-b842-40f4-91a4-0686118f7535
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothes female_casualsuit02 9896f4a4-a718-4bdd-8482-52e1855160f6
+clothesHideFaces True
+skinMaterial skins/young_caucasian_female/young_caucasian_female.mhmat
+material long01 6c6b0bb1-3608-40b8-9108-4bfd8fa71e39 long01.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+subdivide False
